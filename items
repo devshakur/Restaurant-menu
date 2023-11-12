@@ -1,0 +1,155 @@
+  <!-- <ul class="item-class">  
+        <div class="item"> 
+            <li class="item1">
+               <img src="/utils/item-1.jpeg" alt="">
+           </li>
+           <div class="item2">
+               <h3>
+                  Banana Pancake
+                    <span class="price">$15.99</span>
+                   <p class="underline2">Banana pancake</p>
+               </h3>
+               <p class="desc">skateboard fam synth authentic semiotics. live-edge lyftaf, edison bulb yuccie crucifix microdosing.</p>
+           </div>
+         
+         </div>
+
+         <div class="item">
+            <li class="item1">
+                <img src="/utils/item-2.jpeg" alt="">
+            </li>
+            <div class="item2">
+                <h3>
+                    Dinner Double
+                     <span class="price">$13.99</span>
+                    <p class="underline2">Dinner Double</p>
+                </h3>
+                <p class="desc">vaporwe iphone mumblecore selvage raw denim slow-carb leggings gocgugang helvetica man braid jianbrig. Marfa thundercats</p>
+            </div>
+          
+        </div>  
+
+        <div class="item">
+            <li class="item1">
+                <img src="/utils/item-3.jpeg" alt="">
+            </li>
+            <div class="item2">
+                <h3>
+                    Godzilla Milkshake
+                     <span class="price">$6.99</span>
+                    <p class="underline2">Godzilla Milkshake</p>
+                </h3>
+                <p class="desc">ombucha chilwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral.</p>
+            </div>
+          
+        </div>
+
+        <div class="item">
+            <li class="item1">
+                <img src="/utils/item-4.jpeg" alt="">
+            </li>
+            <div class="item2">
+                <h3>
+                    Country Delight
+                     <span class="price">$20.99</span>
+                    <p class="underline2">Country Delight</p>
+                </h3>
+                <p class="desc">shabby chic keffiyah neutra snackwave poor belly shoreditch. prism austin milshik tarruffet.</p>
+            </div>
+          
+        </div>
+
+        <div class="item">
+            <li class="item1">
+                <img src="/utils/item-5.jpeg" alt="">
+            </li>
+            <div class="item2">
+                <h3>
+                    Egg Attack
+                     <span class="price">$22.99</span>
+                    <p class="underline2">
+                        EggAttack</p>
+                </h3>
+                <p class="desc">franzen vegan pabst bicycle rights kickstarter pinterest mediation farm-to-table 90s pop-up</p>
+            </div>
+          
+     </div>
+
+     <div class="item">
+        <li class="item1">
+            <img src="/utils/item-6.jpeg" alt="">
+        </li>
+        <div class="item2">
+            <h3>
+                Oreo Dream
+                 <span class="price">$18.99</span>
+                <p class="underline2"> Oreo Dream</p>
+            </h3>
+            <p class="desc">portland chiccharronnes ethical edison bulb, palo santo craft beer chia herloon iphone everyday</p>
+        </div>
+      
+ </div>
+
+ <div class="item">
+    <li class="item1">
+        <img src="/utils/item-7.jpeg" alt="">
+    </li>
+    <div class="item2">
+        <h3>
+            Bacon Overflow
+             <span class="price">$8.99</span>
+            <p class="underline2">Bacon Overflow</p>
+        </h3>
+        <p class="desc">carry jianbing normcore freegan, viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird
+        </p>
+    </div>
+  
+</div>
+
+<div class="item">
+    <li class="item1">
+        <img src="/utils/item-8.jpeg" alt="">
+    </li>
+    <div class="item2">
+        <h3>
+            American Classic
+             <span class="price">$12.99</span>
+            <p class="underline2">American Classic</p>
+        </h3>
+        <p class="desc">on it tumblir kickstarter thundercats miogas everyday carry squid palo santo leggings. food truck truffet</p>
+    </div>
+  
+</div>
+
+<div class="item">
+    <li class="item1">
+        <img src="/utils/item-9.jpeg" alt="">
+    </li>
+    <div class="item2">
+        <h3>
+            Quanritine Buddy
+             <span class="price">$16.99</span>
+            <p class="underline2">
+                Quanritine Buddy</p>
+        </h3>
+        <p class="desc">skateboard fam synth authentic semiotics. live-edge lyftaf, edison bulb yuccie crucifix microdosing.</p>
+    </div>
+  
+</div>
+
+<div class="item">
+    <li class="item1">
+        <img src="/utils/item-10.jpeg" alt="">
+    </li>
+    <div class="item2">
+        <h3>
+            Steak Dinner
+             <span class="price">$39.99</span>
+            <p class="underline2">Steak Dinner</p>
+        </h3>
+        <p class="desc">skateboard fam synth authentic semiotics. live-edge lyftaf, edison bulb yuccie crucifix microdosing.</p>
+    </div>
+  
+</div>
+    </ul> 
+        </section>  -->
